@@ -1,0 +1,16 @@
+
+.match-wrapper[data-v-7f7d0dfb] {
+  display: flex;
+  margin-top: 2rem;
+}
+.match-list[data-v-7f7d0dfb] {
+  flex: 0 1 45%;
+}
+.list-group-item[data-v-7f7d0dfb] {
+  padding: 1rem 0;
+  border-bottom:1px solid #f4f4f4
+}
+.mt-8[data-v-7f7d0dfb] {
+  margin-top: 2rem;
+}
+
